@@ -1,0 +1,15 @@
+.movie-card {
+    background: lightblue;
+    border-radius: 20px;
+    width: 80%;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.a{
+    width: 45%;
+}
