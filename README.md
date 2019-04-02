@@ -1,7 +1,7 @@
 # Client Side Routing w/ React Router v. 4
 
 Topics:
-
+ 
 * React Router
 * Using Link and NavLink to navigate to specific routes
 * Passing Route Parameters
